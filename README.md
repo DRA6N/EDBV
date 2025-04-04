@@ -6,6 +6,9 @@
 ---
 EDBV is a tool used to view your current bindings in Elite Dangerous.
 Rather than having to scroll through your bindings in-game or use an EDRefCard to figure out what your current bindings are, EDBV fills that void.
+<p align="center">
+<img src="https://i.imgur.com/9DhO8lP.png" width="600">
+</p>
 
 ## How to use this app:
 1. Set your bindings directory under File > Settings > Set Bindings Directory.
