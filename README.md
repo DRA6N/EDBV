@@ -20,5 +20,8 @@ Rather than having to scroll through your bindings in-game or use an EDRefCard t
 #### _Note: Bindings are typically located in the C:\Users\{USER}\AppData\Local\Frontier Developments\Elite Dangerous\Options\Bindings directory._
 ---
 ## Changelog
+4/3/2025 - v1.0.1
+- Minor bug fixes
+
 4/3/2025 - v1.0.0
 - Initial Release
